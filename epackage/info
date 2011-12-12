@@ -14,7 +14,7 @@ Upstream-Bugs:
 Vcs-Type: svn
 Vcs-Url: http://svn.ruby-lang.org/repos/ruby/trunk/misc
 Vcs-Args:
-Vcs-Browser:
+Vcs-Browser: http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/misc/
 Vcs-User:
 Vcs-Password:
 Homepage:
