@@ -22,7 +22,7 @@ Wiki:
 X-Wiki: Closest page is http://www.emacswiki.org/emacs/RubyMode
 Commentary:
 X-Development: Upstream's private repo is at https://github.com/nobu
-Description: Major mode to edit Ruby source code documentation markup
+Description: major mode for editing Ruby source code documentation markup
  Mode edit Ruby documentation markup. See <http://rdoc.sourceforge.net/>
  and <http://en.wikipedia.org/wiki/RDoc>.
  .
