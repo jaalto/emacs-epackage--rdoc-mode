@@ -4,4 +4,4 @@
 
 (add-hook 'ruby-mode-hook 'rdoc-mode)
 
-(provide 'rdoc-mode-epkg-install)
+(provide 'rdoc-mode-epackage-install)
